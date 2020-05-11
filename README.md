@@ -11,9 +11,9 @@
 
 ​	大家如果有什么问题，包括学习问题，大数据职业规划，简历书写包装等问题都加我【微信】，或者到【公众号】后台留言给我，看到后都会给大家详细回答的。
 
-![image-20200511190955391](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20200511194648.png)
 
-<a href="https://wx.zsxq.com/dweb2/login">![image-20200511195400503](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20200511195432.png)</a>
+
+<a href="https://wx.zsxq.com/dweb2/login">![](./images/zhishixingqiu.png)</a>
 
 
 
