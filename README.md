@@ -36,7 +36,7 @@
 
 <a src="File:///D:\SyncData\aGithub\FocusBigData\pdf\hadoop\【Hadoop篇01】Hadoop本地模式环境搭建.pdf">xxx</a>
 
-[【Hadoop篇01】Hadoop本地模式环境搭建.pdf](.\pdf\hadoop)
+[【Hadoop篇01】Hadoop本地模式环境搭建.pdf](pdf/hadoop)
 
 ## Spark
 
