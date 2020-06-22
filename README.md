@@ -75,7 +75,7 @@
 
 【源码是做成思维导图的方式，放在[知识星球](#知识星球)里面，思维导图部分展示如下】
 
-![](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20200622163759.png)
+![](./images/hadoop源码图.png)
 
 
 
