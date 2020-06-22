@@ -213,11 +213,11 @@
 >
 >回复`大数据面经`即可获得面经
 >
-><img src="./images/大数据面经.png" style="zoom: 50%;" />
+><img src="./images/大数据面经.png" style="zoom: 30%;" />
 >
 >回复`大数据面试经历`即可获得面经
 >
-><img src="./images/大数据面试经历.png" style="zoom: 50%;" />
+><img src="./images/大数据面试经历.png" style="zoom: 30%;" />
 
 
 
