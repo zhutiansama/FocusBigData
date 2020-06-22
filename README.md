@@ -124,6 +124,8 @@
 
 
 
+
+
 ## :bird:Flink分布式流式框架
 
 + ### Flink篇
@@ -151,8 +153,7 @@
 
 > ​	未完待续，最近利用工作之余给给大家先更新了Hadoop、Spark、Flink三个大数据中最主要的框架，后面还陆续给大家跟新如下内容：【[知识星球](#知识星球)每周五晚上发布文章，后面在同步到各个平台】
 
-+ Hive数据仓库
-
+- Hive数据仓库
 - HBase列式存储分布式数据库
 - Kafka消息队列
 - Sqoop数据传输工具
@@ -255,7 +256,9 @@
 
 >​	创办这个星球的初衷就是为了让更多想了解大数据或者从Web开发转向大数据的同学，通过自学能够快速掌握大数据相关知识并能够上手工作，加入星球的同学记得私聊我，有项目福利
 
-加入我的星球
+点击或者扫码加入<a href="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20200622113141.png">![](./images/zhishixingqiu.png)</a>
+
+
 
 <img src="./images/知识星球扫码图.png" style="zoom: 50%;" />
 
