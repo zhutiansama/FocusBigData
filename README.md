@@ -14,7 +14,7 @@
 
 ![](./images/head.png)
 
-​		<a href="https://wx.zsxq.com/dweb2/login">![](./images/gongzhonghao.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/weixin.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/csdn.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/kaiyuanzhongguo.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/toutiao.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/bokeyuan.png)</a>	<a href="https://wx.zsxq.com/dweb2/login">![](./images/zhishixingqiu.png)</a>
+​		<a href="#微信公众号">![](./images/gongzhonghao.png)</a>	<a href="#关于我">![](./images/weixin.png)</a>	<a href="https://blog.csdn.net/qq_31923871">![](./images/csdn.png)</a>	<a href="https://my.oschina.net/u/3833705">![](./images/kaiyuanzhongguo.png)</a>	<a href="https://www.toutiao.com/c/user/5506899031/#mid=1653255274799115">![](./images/toutiao.png)</a>	<a href="https://home.cnblogs.com/u/1511816/">![](./images/bokeyuan.png)</a>	<a href="#知识星球">![](./images/zhishixingqiu.png)</a>
 
 
 
@@ -250,9 +250,7 @@
 
 ​	创办这个星球的初衷就是为了让更多想了解大数据或者从Web开发转向大数据的同学，通过自学能够快速掌握大数据相关知识并能够上手工作，加入星球的同学记得私聊我，有项目福利【有时候图片无法显示可以关注公众号加入】
 
-
-
-<img src="./images/知识星球扫码图.png" style="zoom: 33%;" />
+<img src="./images/知识星球扫码图.png" style="zoom: 43%;" />
 
 ## 微信公众号
 
