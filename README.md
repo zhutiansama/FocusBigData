@@ -258,7 +258,7 @@
 
 <img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210945.png" style="zoom: 80%;" />
 
-捷径路线就是我带你感受大数据之旅，期望薪资和费用公众号已经说明
+捷径路线就是我带你感受大数据之旅，期望薪资和费用公众号已经说明；
 
 
 
