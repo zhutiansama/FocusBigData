@@ -73,7 +73,7 @@
 
 【源码是做成思维导图的方式，放在[公众号](#微信公众号)里面，恢复`hadoop思维导图 `即可获得，思维导图部分展示如下】
 
-![](./images/hadoop源码图.png)
+![](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211015.png)
 
 
 
@@ -208,15 +208,15 @@
 >
 >回复`大数据面经`即可获得面经
 >
-><img src="./images/大数据面经.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211011.png" style="zoom: 30%;" />
 >
 >回复`大数据面试经历`即可获得面经经历
 >
-><img src="./images/大数据面试经历.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211009.png" style="zoom: 30%;" />
 >
 >回复`大数据学习路线图`即可获得学习路线图
 >
-><img src="./images/大数据学习路线图.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211007.png" style="zoom: 30%;" />
 >
 >回复`大数据书单`即可获得相关书籍
 >
@@ -228,19 +228,19 @@
 >
 >回复`大数据基础`即可获得大数据基础视频教程
 >
-><img src="./images/大数据基础.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211002.png" style="zoom: 80%;" />
 >
 >回复`数仓全套`即可获得数仓全套项目视频教程
 >
-><img src="./images/数仓全套.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210957.png" style="zoom: 80%;" />
 >
 >回复`Spark全套`即可获得Spark全套项目视频教程
 >
-><img src="./images/Spark全套.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210955.png" style="zoom: 80%;" />
 >
 >回复`Flink全套`即可获得Flink全套项目视频教程
 >
-><img src="./images/Flink全套.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210953.png" style="zoom: 80%;" />
 
 
 
@@ -256,7 +256,7 @@
 
 ## 捷径路线
 
-<img src="./images/大数据之旅.png" style="zoom: 80%;" />
+<img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210945.png" style="zoom: 80%;" />
 
 捷径路线就是我带你感受大数据之旅，期望薪资和费用公众号已经说明
 
@@ -266,7 +266,7 @@
 
 > ​	文章也会同步到公众号中，**福利也都放在公众号上面**，回复对应关键词即可领取。在公众号后台也可以给我留言，或者直接加我私聊都行【图片加载不出来可以搜索：FocusBigData】
 
-<img src="./images/微信公众号扫码图.jpg" style="zoom: 36%;" />
+<img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210949.jpg" style="zoom: 36%;" />
 
 
 
