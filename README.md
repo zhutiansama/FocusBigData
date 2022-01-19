@@ -226,6 +226,10 @@
 >
 >![image-20211118212656361](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20211118212657.png)
 >
+>回复`大数据基础`即可获得大数据基础视频教程
+>
+>![image-20220119204802493](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119204803.png)
+>
 >回复`数仓全套`即可获得数仓全套项目视频教程
 >
 >![image-20220119202836771](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119202838.png)
@@ -234,9 +238,27 @@
 >
 >![image-20220119202936073](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119202937.png)
 >
->回复`Flink'全套`即可获得Flink全套项目视频教程
+>回复`Flink全套`即可获得Flink全套项目视频教程
 >
 >![image-20220119203013202](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119203014.png)
+
+
+
+## 自学路线
+
+第一步【从公众号回复`大数据学习路线图和大数据基础和数仓全套`照着思维导图学下来】
+
+第二步【学完之后回复`大数据面经和大数据面试经历`进行面试准备】
+
+第三步【找我免费修改简历和项目，再去面试最终获得满意OFFER】
+
+
+
+## 捷径路线
+
+![image-20220119210300738](C:\Users\ZYT\AppData\Roaming\Typora\typora-user-images\image-20220119210300738.png)
+
+捷径路线就是我带你感受大数据之旅，期望薪资和费用公众号已经说明
 
 
 
