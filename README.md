@@ -228,19 +228,19 @@
 >
 >回复`大数据基础`即可获得大数据基础视频教程
 >
->![image-20220119204802493](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119204803.png)
+><img src="./images/大数据基础.png" style="zoom: 80%;" />
 >
 >回复`数仓全套`即可获得数仓全套项目视频教程
 >
->![image-20220119202836771](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119202838.png)
+><img src="./images/数仓全套.png" style="zoom: 80%;" />
 >
 >回复`Spark全套`即可获得Spark全套项目视频教程
 >
->![image-20220119202936073](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119202937.png)
+><img src="./images/Spark全套.png" style="zoom: 80%;" />
 >
 >回复`Flink全套`即可获得Flink全套项目视频教程
 >
->![image-20220119203013202](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119203014.png)
+><img src="./images/Flink全套.png" style="zoom: 80%;" />
 
 
 
@@ -256,7 +256,7 @@
 
 ## 捷径路线
 
-![image-20220119210300738](C:\Users\ZYT\AppData\Roaming\Typora\typora-user-images\image-20220119210300738.png)
+<img src="./images/大数据之旅.png" style="zoom: 80%;" />
 
 捷径路线就是我带你感受大数据之旅，期望薪资和费用公众号已经说明
 
