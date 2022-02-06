@@ -208,43 +208,43 @@
 >
 >回复`大数据面经`即可获得面经
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211011.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211011.png" style="zoom: 10%;" />
 >
 >回复`大数据面试经历`即可获得面经经历
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211009.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211009.png" style="zoom: 10%;" />
 >
 >回复`大数据学习路线图`即可获得学习路线图
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211007.png" style="zoom: 30%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211007.png" style="zoom: 10%;" />
 >
 >回复`大数据书单`即可获得相关书籍
 >
->![image-20211118212634484](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20211118212636.png)
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20211118212636.png" alt="image-20211118212634484" style="zoom:10%;" />
 >
 >回复`数据仓库书单`即可获得相关书籍
 >
->![image-20211118212656361](https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20211118212657.png)
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20211118212657.png" alt="image-20211118212656361" style="zoom:10%;" />
 >
 >回复`大数据基础`即可获得大数据基础视频教程
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211002.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119211002.png" style="zoom: 10%;" />
 >
 >回复`数仓全套`即可获得数仓全套项目视频教程
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210957.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210957.png" style="zoom: 10%;" />
 >
 >回复`Spark全套`即可获得Spark全套项目视频教程
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210955.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210955.png" style="zoom: 10%;" />
 >
 >回复`Flink全套`即可获得Flink全套项目视频教程
 >
-><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210953.png" style="zoom: 80%;" />
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210953.png" style="zoom: 10%;" />
 
 
 
-## 自学路线+
+## 自学路线
 
 第一步【从公众号回复`大数据学习路线图和大数据基础和数仓全套`照着思维导图学下来】
 
