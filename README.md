@@ -241,6 +241,10 @@
 >回复`Flink全套`即可获得Flink全套项目视频教程
 >
 ><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220119210953.png" style="zoom: 10%;" />
+>
+>回复`sql题目`即可获得Leetcode上全部sql题解
+>
+><img src="https://gitee.com/zhutiansama/MDPictureResitory/raw/master/img/20220208192905.png" alt="image-20220208192903732" style="zoom: 25%;" />
 
 
 
